@@ -13,14 +13,10 @@
 |Daniela       | -------------- |
 |Fernando      | -------------- |
 |Luis          | -------------- |
-|              | -------------- |
-
-|INTREGRANTES         | PARTICIPACIÓN  | 
-|---------------------|----------------| 
-|Javier Sanchez       | -------------- |
-|Marco Antonio Morelos| -------------- |
-|José Carlos Ramírez  | -------------- |
-|Cinthya Santa Rosa   |  ------------- |
-|Alberto Antonio Avila| -------------- |
-|Luis Miguel Osorio   | -------------- |
-|Gilberto Romero      | -------------- |
+|Javier        | -------------- |
+|Marco         | -------------- |
+|José          | -------------- |
+|Cinthya       |  ------------- |
+|Alberto       | -------------- |
+|Luis          | -------------- |
+|Gilberto      | -------------- |
